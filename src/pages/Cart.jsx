@@ -86,7 +86,7 @@ const Cart = () => {
 
         {/* Free delivery message */}
         <div className="delivery-msg">
-          🚚 Add ₹20.00 more for free delivery!
+          🚚 Add ₹20.00 more for
         </div>
       </div>
 
